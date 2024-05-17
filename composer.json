@@ -1,0 +1,16 @@
+{
+    "name": "prince/choko",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Prince\\Choko\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kqeza",
+            "email": "creepon.752@gmail.com"
+        }
+    ],
+    "require": {}
+}
